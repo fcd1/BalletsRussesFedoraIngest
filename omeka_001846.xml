@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_001846</identifier>
+   <titleInfo>
+      <title>Théâtre National de l'Opéra 1919 - 1920 Saison des Ballets Russes, Serge de Diaghilew, Carte d'Entrée for M. le Prince Schervachidze</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1919</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1922</dateCreated>
+      <dateCreated>between 1919 and 1922</dateCreated>
+      <place>
+        <placeTerm type="text">Paris, France</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/beyond</url>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Sergei Diaghilev and Beyond: Les Ballets Russes</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio10379406</url>
+      </location>
+    </relatedItem>
+   <note>original filename: 07-04-01.tif</note>
+   <name>
+      <namePart>Opéra de Paris</namePart>
+    </name>
+   <subject>
+      <topic>Ballets russes</topic>
+      <topic>Shervashidze, Aleksandr, 1867-1968</topic>
+    </subject>
+   <abstract>Ballet Russes, carte d'entree or entrance card belonging to Prince "Schervachidze" (Shervashidze)</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

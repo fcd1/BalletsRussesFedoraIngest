@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_001817</identifier>
+   <titleInfo>
+      <title>Brightest Constellation of Star Attractions in the Concert and Operatic Firmament</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>periodicals</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1911-05-27</dateCreated>
+      <dateCreated>May 27, 1911</dateCreated>
+      <publisher>Musical American Corp.</publisher>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case4/ballerina</url>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Sergei Diaghilev and Beyond: Les Ballets Russes</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio10379406</url>
+      </location>
+    </relatedItem>
+   <relatedItem>
+      <titleInfo>
+        <title>Musical America, Volume 14: Number 3, page 10</title>
+      </titleInfo>
+    </relatedItem>
+   <note>original filename: 04-17-01.tif</note>
+   <name>
+      <namePart>Rabinoff, Max</namePart>
+    </name>
+   <subject>
+      <topic>Balalaika Orchestra</topic>
+      <topic>Pavlova, Anna, 1881-1931</topic>
+      <topic>Mordkin, Mikhail, 1881-1944</topic>
+      <topic>Ballets russes</topic>
+      <topic>Smirnov, Dmitriĭ Alekseevich, 1882-1944</topic>
+      <topic>Janpolski, Albert G. (Albert Gregorowich)</topic>
+    </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

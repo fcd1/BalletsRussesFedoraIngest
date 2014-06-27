@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_001776</identifier>
+   <titleInfo>
+      <title>Nikolai Rimskii-Korsakov Portrait Inscribed to Fiodor Chaliapin</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+      <form>manuscripts</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1907</dateCreated>
+      <dateCreated>1907</dateCreated>
+      <place>
+        <placeTerm type="text">Moscow</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case2/rimskiikorsakov</url>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Sergei Diaghilev and Beyond: Les Ballets Russes</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio10379406</url>
+      </location>
+    </relatedItem>
+   <note>original filename: 02-02-01.tif</note>
+   <name>
+      <namePart>Rimsky-Korsakov, Nikolay, 1844-1908</namePart>
+    </name>
+   <name>
+      <namePart>Chaliapin, Fyodor Ivanovich, 1873-1938</namePart>
+    </name>
+   <subject>
+      <topic>Rimsky-Korsakov, Nikolay, 1844-1908</topic>
+    </subject>
+   <abstract>Photograph from Nikolai Rimskii-Korsakov inscribed to Fiodor Chaliapin: "As a keepsake to Fiodor Chaliapin, a Varangian visitor and a great Ivan the Terrible in the Maid of Pskov."</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

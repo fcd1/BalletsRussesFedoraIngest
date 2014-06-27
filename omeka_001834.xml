@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_001834</identifier>
+   <titleInfo>
+      <title>Ballet Russe, Col. W. de Basil, General Director: Program, front page</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="inferred">1900</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1951</dateCreated>
+      <dateCreated>Between 1900 and 1951</dateCreated>
+      <place>
+        <placeTerm type="text">New York, New York (State)</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case5/basil</url>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>Sergei Diaghilev and Beyond: Les Ballets Russes</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio10379406</url>
+      </location>
+    </relatedItem>
+   <note>Date inferred from the life dates of Col. W. de Basil (general director of the production for which the program was created)</note>
+   <note>original filename: 05-23-01.tif</note>
+   <name>
+      <namePart>Hurok, Sol, 1888-1974</namePart>
+    </name>
+   <name>
+      <namePart>51st St. Theatre on Broadway</namePart>
+    </name>
+   <subject>
+      <topic>Basil, W. de</topic>
+      <topic>Ballets russes du Col. W. de Basil</topic>
+    </subject>
+   <abstract>Program of Ballet Russe, Colonel W. de Basil.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>
