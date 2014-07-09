@@ -20,7 +20,7 @@
       <dateCreated>Between 1958 and 1993</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case6/nureyev</url>
     </location>
    <relatedItem displayLabel="Project" type="host">

@@ -17,7 +17,7 @@
       <dateCreated>26/XI 1923</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case1/business</url>
     </location>
    <relatedItem displayLabel="Project" type="host">

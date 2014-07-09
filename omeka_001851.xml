@@ -17,7 +17,7 @@
       <dateCreated>1935 to 1936</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/diaghilev/case7/beyond</url>
     </location>
    <relatedItem displayLabel="Project" type="host">
